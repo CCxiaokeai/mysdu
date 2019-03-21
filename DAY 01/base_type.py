@@ -8,7 +8,8 @@
 # class 类型
 # str string 字符
 # 合法标识符 必须以字母或下划线开头 剩下的可以是字母数字，下划线，大小写敏感，不可用关键字做标识符
-
+#ctrl+k commit 代码
+#
 # 声明一个int_demo 方法
 def int_demo():
     # 声明aint变量，并赋值1
